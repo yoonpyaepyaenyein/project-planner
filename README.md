@@ -1,5 +1,7 @@
 # project-planner
 
+#Planning projects website written in Vue.js, JavaScript, HTML & CSS
+
 ## Project setup
 ```
 npm install
